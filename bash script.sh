@@ -7,6 +7,7 @@ then
 echo "success"
 else
 echo "failed"
+fi
 
 
 f_name=george
