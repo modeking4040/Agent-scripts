@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Author: George D.
+
 if [ $? -eq 0 ]
 then
 echo "success"
