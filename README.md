@@ -1,2 +1,2 @@
 # Agent-scripts
-This repository is to save my bash shell script.
+This repository is to save bash shell script.
